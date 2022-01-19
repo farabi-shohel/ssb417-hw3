@@ -1,0 +1,17 @@
+.full-body{
+	width: 90%;
+	margin: 0 auto;
+}
+.article-1, .article-2{
+	padding: 7px;
+	background: #ddd;
+	margin: 30px;
+}
+.aside-bar{
+	  width: 40%;
+	  padding-left: 15px;
+	  margin-left: 15px;
+	  float: right;
+	  font-style: italic;
+	  background-color: lightgray;
+}
